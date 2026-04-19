@@ -1,108 +1,83 @@
-<h1 align="center">👋 Hi, I'm Kingsley Chibueze</h1>
-<h3 align="center">WAMP Dev · Node.js Builder · Fintech & Financial Infrastructure Engineer</h3>
+<h1 align="center">Kingsley Chibueze</h1>
+<h3 align="center">Backend Engineer · Fintech & Financial Infrastructure</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=650&lines=WAMP+Stack+Developer;Node.js+%26+JavaScript+Engineer;Fintech+%26+Financial+Infrastructure;USD+Rails+%26+Stablecoin+Builder;BSc+Anatomy+%26+Computer+Science" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C8FF&center=true&vCenter=true&width=650&lines=Backend+Engineer+(PHP+%2F+Node.js);Fintech+Infrastructure+%26+Payment+Systems;USD+Rails+%26+Stablecoin+Architecture;Ledger+Systems+%26+Financial+Automation" />
 </p>
 
 ---
 
-## 💫 About Me
+## About
 
-I'm **Kingsley Chibueze** — a backend-heavy developer building at the intersection of **fintech**, **financial infrastructure**, and the modern web. I specialize in secure payment engines, USD rails, stablecoin systems, and custody ledgers.
+Backend-focused engineer working on financial systems, payment infrastructure, and programmable money.
 
-- 🔭 Currently building: **Atlas** — auth, ledger, AI & payment systems
-- 🌱 Deep-diving into: **BSC custody, stablecoin settlement & financial automation**
-- 💬 Ask me about: **PHP, Node.js, MySQL, fintech backend architecture**
-- ⚡ Fun fact: BSc Anatomy & Computer Science — I debug both code *and* bodies 🧬
+Current focus areas:
+- Designing **ledger systems** and transaction pipelines
+- Building **USD rails and stablecoin flows**
+- Developing **automation engines for financial operations**
+- Architecting systems for **reliability, idempotency, and scale**
 
----
-
-## 🌐 Socials
-
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/chibuike_kt)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kingsley-chibueze-67330a338)
+**Current Project**
+- **Atlas** — programmable financial engine for fiat, USD, and crypto flows  
+  (automation rules, ledger, conversion, and execution layer)
 
 ---
 
-## 💻 Tech Stack
+## Stack
 
-## 🧠 Core Languages
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+### Languages
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 
-## ⚙️ Backend & Frameworks
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+### Backend
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
 
-## 🗄️ Databases & ORM
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+### Data Layer
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white)
 
-## 🔐 Auth & APIs
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### Infrastructure
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)
 
-## 🧰 Dev Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+### Tooling
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-## 🌐 Web & Frontend Utilities
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
-## ☁️ DevOps & Hosting
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-## 🌍 Servers
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ---
 
-## 📊 GitHub Stats
+## Engineering Focus
+
+- Transaction safety (atomicity, retries, reconciliation)
+- Idempotent APIs and job processing
+- Ledger correctness and auditability
+- Offline-first and failure-resilient systems
+- Payment orchestration and conversion pipelines
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chibuike-kt&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chibuike-kt&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=chibuike-kt&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chibuike-kt&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
----
-
-## 🔝 Top Contributed Repos
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=chibuike-kt&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+  <img src="https://streak-stats.demolab.com?user=chibuike-kt&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chibuike-kt&layout=compact&theme=dark&hide_border=true&langs_count=6" />
 </p>
 
 ---
 
-### ✍️ Random Dev Quote
+## Contact
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=chibuike-kt&icon=0&color=0" alt="Profile Views" />
-</p>
-
-<!-- Proudly crafted for chibuike-kt -->
+- X: https://x.com/chibuike_kt  
+- LinkedIn: https://www.linkedin.com/in/kingsley-chibueze-67330a338
