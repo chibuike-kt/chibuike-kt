@@ -83,15 +83,6 @@ I'm **Kingsley Chibueze** — a backend-heavy developer building at the intersec
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chibuike-kt&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chibuike-kt&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Trophies" />
-</p>
-
 ---
 
 ## 🔝 Top Contributed Repos
