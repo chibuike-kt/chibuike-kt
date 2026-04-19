@@ -17,10 +17,6 @@ Current focus areas:
 - Developing **automation engines for financial operations**
 - Architecting systems for **reliability, idempotency, and scale**
 
-**Current Project**
-- **Atlas** — programmable financial engine for fiat, USD, and crypto flows  
-  (automation rules, ledger, conversion, and execution layer)
-
 ---
 
 ## Stack
