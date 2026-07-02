@@ -1,9 +1,5 @@
 <h1 align="center">Kingsley Chibueze</h1>
-<p align="center">Backend Engineer building payment systems, ledgers, and fintech infrastructure.</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Ledgers+%7C+Payments+%7C+Stablecoin+Rails;PHP+%2F+JS+%2F+TS+%2F+Java+%2F+Go" />
-</p>
+<p align="center">Backend Engineer</p>
 
 ---
 
