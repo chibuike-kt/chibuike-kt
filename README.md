@@ -1,5 +1,5 @@
 <h1 align="center">Kingsley Chibueze</h1>
-<p align="center">Backend Engineer</p>
+<p align="center">Backend Engineer building payment systems, ledgers, and fintech infrastructure.</p>
 
 ---
 
@@ -50,6 +50,16 @@
 ---
 
 <p align="center">
-  <a href="https://x.com/chibuike_kt">X</a> ·
-  <a href="https://www.linkedin.com/in/kingsley-chibueze-67330a338">LinkedIn</a>
+  <a href="https://kingsley-chibueze.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://x.com/chibuike_kt">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kingsley-chibueze-67330a338">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="RESUME_LINK_HERE">
+    <img src="https://img.shields.io/badge/Resume-4B5563?style=for-the-badge&logo=readdotcv&logoColor=white" />
+  </a>
 </p>
